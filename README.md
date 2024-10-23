@@ -191,7 +191,7 @@ Each category can enhance their marketing strategies based on these findings to 
 
 ---
 
-**Note: Modeling, Model Evaluation, visualization, and other detailed findings related to customer segmentation clustering can be accessed in the [customer_segmentation_clustering]([LINK](https://github.com/windi-wulandari/Customer-Segmentation/blob/main/customer_segmentation_clustering.ipynb)) Notebook.**
+**Note: Modeling, Model Evaluation, visualization, and other detailed findings related to customer segmentation clustering can be accessed in the [customer_segmentation_clustering](https://github.com/windi-wulandari/Customer-Segmentation/blob/main/customer_segmentation_clustering.ipynb) Notebook.**
 
 ---
 
